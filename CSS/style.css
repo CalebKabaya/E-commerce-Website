@@ -10,7 +10,12 @@ body{
 	max-width: 1300px;
 	margin: auto;
 	padding-left: 25px;
-	padding-right: 25px;	  
+	padding-right: 25px;
+	/* height: 100vh;	   */
+}
+#cont{
+		height: 100vh;	  
+
 }
 .navbar{
 	display: flex; 
@@ -150,7 +155,8 @@ small{
 }
 /*--------testimonial-------*/
 .tesimonial{
-	padding-top: 100px;
+	padding-top: 300px;
+	margin-top: 20%;
 }
 .testimonial .col-3{
 	text-align: center;
